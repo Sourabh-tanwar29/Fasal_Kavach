@@ -113,6 +113,3 @@ npm install
 3.  **Power on the ESP32**:
     Once powered, the ESP32 will connect to Wi-Fi and start publishing sensor data. You should see the data being logged by the backend server.
 
-## License
-
-This project is licensed under the MIT License. See
