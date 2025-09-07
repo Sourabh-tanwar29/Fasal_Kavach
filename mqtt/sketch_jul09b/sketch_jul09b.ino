@@ -10,8 +10,8 @@ const char* password = "hostelnet";
 // ----- MQTT Credentials (HiveMQ Cloud) -----
 const char* mqtt_server = "8f6746e9083d405fbbee65151e4af05c.s1.eu.hivemq.cloud";
 const int mqtt_port = 8883;
-const char* mqtt_user = "sanket1";
-const char* mqtt_pass = "Sanket@2006";
+const char* mqtt_user = "sourabh";
+const char* mqtt_pass = "Sourabh@2004";
 
 // ----- DHT22 Setup -----
 #define DHTPIN 14
